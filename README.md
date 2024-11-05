@@ -45,17 +45,15 @@ Model yang digunakan adalah model Sequential dengan deskripsi sebagai berikut:
 -   **`tf.keras.layers.Dense`:** Lapisan ini adalah lapisan fully connected, di mana setiap neuron terhubung ke semua neuron pada lapisan sebelumnya. Lapisan ini akan membuat keputusan akhir, misalnya mengklasifikasikan gambar menjadi beberapa kategori.
 
 
+Akurasi, RMSprop, dan categorical crossentropy adalah tiga komponen penting dalam pelatihan model pembelajaran mesin, khususnya untuk masalah klasifikasi multi-kelas. Akurasi digunakan untuk mengukur seberapa baik model dalam memprediksi kelas yang benar. RMSprop, sebagai algoritma optimasi, berperan dalam memperbarui bobot model secara efisien agar nilai loss dapat diminimalkan. Sedangkan, categorical crossentropy berfungsi sebagai fungsi kerugian yang menghitung perbedaan antara distribusi probabilitas yang diprediksi oleh model dengan distribusi probabilitas yang sebenarnya. Ketiga komponen ini bekerja sama untuk memastikan model dapat belajar dari data pelatihan dan menghasilkan prediksi yang akurat.
 
-* **Hyperparameter:** (Sebutkan hyperparameter yang digunakan, seperti learning rate, optimizer, loss function, dll.)
+
+
 * **Training:** (Jelaskan proses training model, seperti jumlah epoch, batch size, dll.)
 
 ## Hasil
-* **Akurasi:** (Tampilkan metrik evaluasi model, seperti akurasi, precision, recall, F1-score)
-* **Confusion Matrix:** (Tampilkan confusion matrix untuk melihat kesalahan klasifikasi)
-* **Visualisasi:** (Tampilkan visualisasi hasil prediksi model, misalnya gambar asli dan prediksi)
 
-## Cara Penggunaan
-* **Persyaratan:** (Sebutkan library atau framework yang diperlukan, misalnya TensorFlow, Keras, OpenCV)
-* **Instruksi:** (Berikan langkah-langkah untuk menjalankan model, seperti cara melatih ulang model, melakukan prediksi pada gambar baru, dll.)
+![image](https://github.com/user-attachments/assets/506db08b-b511-49e3-9ded-6bbad3d2d14a)
 
-## Contoh Penggunaan
+![image](https://github.com/user-attachments/assets/2ad6f6ab-faaa-4872-84c7-55d6f84160f5)
+
