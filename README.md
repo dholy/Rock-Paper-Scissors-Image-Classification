@@ -12,7 +12,7 @@ Proyek ini bertujuan untuk membuat model klasifikasi gambar yang mampu mengenali
 |   |  KETERANGAN |
 |--|--|
 |  Nama Dataset |  Rock-Paper-Scissor   |
-|  Sumber  |  [dicodingacademy](https://github.com/dicodingacademy/assets/releases/)   |
+|  Sumber  |  [dicodingacademy]([https://github.com/dicodingacademy/assets/releases/](https://github.com/dicodingacademy/assets/releases/tag/release))   |
 |  Jumlah data |  Rock: 726, Paper: 750, Scissors: 712  |
 
 
