@@ -55,3 +55,9 @@ Akurasi, RMSprop, dan categorical crossentropy adalah tiga komponen penting dala
 
 ![image](https://github.com/user-attachments/assets/2ad6f6ab-faaa-4872-84c7-55d6f84160f5)
 
+
+**Menguji Model dengan Data baru**
+
+![image](https://github.com/user-attachments/assets/b911cd8f-f14a-4af3-9aee-588961d507bd)
+
+
