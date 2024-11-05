@@ -49,8 +49,6 @@ Akurasi, RMSprop, dan categorical crossentropy adalah tiga komponen penting dala
 
 
 
-* **Training:** (Jelaskan proses training model, seperti jumlah epoch, batch size, dll.)
-
 ## Hasil
 
 ![image](https://github.com/user-attachments/assets/506db08b-b511-49e3-9ded-6bbad3d2d14a)
